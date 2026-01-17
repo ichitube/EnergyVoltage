@@ -3,7 +3,6 @@
 Использовал данные из Opendata - U.S. Energy Information Administration (EIA) https://www.eia.gov/opendata/
 
 Запуск
-
 pip install -r requirements.txt
 python forecasting.py
 python graphics_analysis.py
